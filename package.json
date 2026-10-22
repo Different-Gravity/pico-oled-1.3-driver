@@ -1,15 +1,9 @@
-https://github.com/Different-Gravity/pico-oled-1.3-driver
-package.json
-pico-oled-1.3-driver/
-__init__.py
-PicoOled13.py
-BasicFont.py
 
 {
 "urls": [
-["pico-oled-1.3-driver/__init__.py", "pico-oled-1.3-driver/__init__.py"],
-["pico-oled-1.3-driver/PicoOled13.py", "pico-oled-1.3-driver/PicoOled13.py"],
-["pico-oled-1.3-driver/BasicFont.py", "pico-oled-1.3-driver/BasicFont"]
+["lib/pico-oled-1.3-driver/__init__.py", "pico-oled-1.3-driver/__init__.py"],
+["lib/pico-oled-1.3-driver/PicoOled13.py", "pico-oled-1.3-driver/PicoOled13.py"],
+["lib/pico-oled-1.3-driver/BasicFont.py", "pico-oled-1.3-driver/BasicFont"]
 ],
 "deps": [
 ["collections-defaultdict", "latest"],
