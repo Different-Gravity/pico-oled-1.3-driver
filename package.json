@@ -1,0 +1,17 @@
+https://github.com/Different-Gravity/pico-oled-1.3-driver
+package.json
+pico-oled-1.3-driver/
+
+{
+"urls": [
+["pico-oled-1.3-driver/PicoOled13.py", "pico-oled-1.3-driver/PicoOled13.py"],
+["pico-oled-1.3-driver/BasicFont.py", "pico-oled-1.3-driver/BasicFont"]
+],
+"deps": [
+["collections-defaultdict", "latest"],
+["os-path", "latest"],
+["github:org/micropython-additions", "main"],
+["gitlab:org/micropython-otheradditions", "main"]
+],
+"version": "0.1"
+}
